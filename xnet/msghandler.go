@@ -2,7 +2,7 @@ package xnet
 
 import (
 	"fmt"
-	"xserver/iface"
+	"xserve/iface"
 )
 
 type MsgHandle struct {

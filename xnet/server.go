@@ -3,7 +3,7 @@ package xnet
 import (
 	"fmt"
 	"net"
-	"xserver/iface"
+	"xserve/iface"
 )
 
 type Server struct {

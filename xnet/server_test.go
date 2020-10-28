@@ -6,7 +6,7 @@ import (
 	"net"
 	"testing"
 	"time"
-	"xserver/iface"
+	"xserve/iface"
 )
 
 type PingRouter struct {

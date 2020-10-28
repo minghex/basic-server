@@ -3,7 +3,7 @@ package xnet
 import (
 	"bytes"
 	"encoding/binary"
-	"xserver/iface"
+	"xserve/iface"
 )
 
 type DataPack struct{}

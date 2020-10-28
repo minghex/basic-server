@@ -1,3 +1,3 @@
-module xnet
+module xserve
 
 go 1.14

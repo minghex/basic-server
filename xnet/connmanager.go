@@ -3,7 +3,7 @@ package xnet
 import (
 	"fmt"
 	"sync"
-	"xserver/iface"
+	"xserve/iface"
 )
 
 type ConnManager struct {

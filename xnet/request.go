@@ -1,6 +1,6 @@
 package xnet
 
-import "xserver/iface"
+import "xserve/iface"
 
 type Request struct {
 	msg  iface.IMessage

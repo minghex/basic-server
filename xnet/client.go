@@ -7,7 +7,7 @@ import (
 	"io"
 	"net"
 	"sync"
-	"xserver/iface"
+	"xserve/iface"
 )
 
 type Client struct {
